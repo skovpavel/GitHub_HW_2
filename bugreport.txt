@@ -1,0 +1,11 @@
+BUG-REPORT
+ID: 001
+Title: Specifications - Unable to expand specifications
+Environment: Asus VivoBook, Windows 10 x64 v21H1 build 19043.1741, FireFox browser v.101
+Steps to reproduce:
+  1. Go to product page
+  2. Press to "Specifications" button
+Priority: Medium
+Severity: Minor
+Expected Result: Specifications expand
+Actual Result: No reaction
